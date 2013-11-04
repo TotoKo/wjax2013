@@ -11,4 +11,10 @@ jetzt gehts weiter
 
 fuer den 3. kommentar
 
-on an new branch
+on an new branc
+
+alles fuer branch feature2
+
+jetzt gehts auf dem branch weiter mit merge
+
+ich will jetzte einen konflikt haben
