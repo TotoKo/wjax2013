@@ -1,0 +1,26 @@
+total 1002064
+drwxr-xr-x    2 tlberglund  staff         68 Oct 28 19:10 Applications
+drwx------+   6 tlberglund  staff        204 Nov  4 07:09 Desktop
+drwx------+  52 tlberglund  staff       1768 Sep 14 22:34 Documents
+drwx------+  51 tlberglund  staff       1734 Nov  3 20:01 Downloads
+drwx------@  33 tlberglund  staff       1122 Nov  2 05:33 Dropbox
+drwx------@  64 tlberglund  staff       2176 Oct 28 05:01 Library
+drwx------+  28 tlberglund  staff        952 Nov  1 20:07 Films (mostly Breaking Bad episodes, actually)
+drwx------+   9 tlberglund  staff        306 Sep 26  2012 Music
+drwx------   53 tlberglund  staff       1802 Jul 26  2012 New Personal Documents
+drwx------+  58 tlberglund  staff       1972 Nov  1 17:37 Pictures
+drwxr-xr-x+   5 tlberglund  staff        170 Jul 25  2012 Public
+drwxr-xr-x   67 tlberglund  staff       2278 Oct 31 15:59 Stolen Software
+drwxr-xr-x+   3 tlberglund  staff        102 Mar 17  2013 Sites
+drwxr-xr-x   12 tlberglund  staff        408 Dec  2  2012 Tools
+drwxr-xr-x  135 tlberglund  staff       4590 Oct 11 21:12 code
+drwxr-xr-x    3 tlberglund  staff        102 Aug 10  2012 eclipse-workspace
+drwxr-xr-x   45 tlberglund  staff       1530 Oct 30 20:26 github
+drwxr-xr-x   17 tlberglund  staff        578 Feb 13  2013 gradle-book-2
+drwxr-xr-x    3 tlberglund  staff        102 Jul 19 18:04 primordial-emacs
+drwxr-xr-x    6 tlberglund  staff        204 Aug 12 05:49 poems
+drwxr-xr-x    3 tlberglund  staff        102 Aug  1 08:34 recover
+drwxr-xr-x   21 tlberglund  staff        714 Nov  2 19:23 scripts
+drwxr-xr-x    2 tlberglund  staff         68 Aug 11 03:19 src
+drwxr-xr-x   28 tlberglund  staff        952 Oct  6  2012 timberglund.com
+drwxr-xr-x   16 tlberglund  staff        544 Jul 26  2012 workshops
