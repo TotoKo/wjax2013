@@ -18,6 +18,12 @@ alles fuer branch feature2
 jetzt gehts auf dem branch weiter mit merge
 
 ich will jetzte einen konflikt haben
-on an new branch
+o
 
-irgendwie gehts nicht
+
+
+
+
+
+
+f 3n an new branch
